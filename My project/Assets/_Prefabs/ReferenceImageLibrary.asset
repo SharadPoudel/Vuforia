@@ -21,11 +21,11 @@ MonoBehaviour:
       m_GuidLow: 4882308599842345176
       m_GuidHigh: 2031253457330568604
     m_SerializedTextureGuid:
-      m_GuidLow: 1510071263932740900
-      m_GuidHigh: 3437436794667294090
-    m_Size: {x: 0.1, y: 0.07796327}
-    m_SpecifySize: 1
-    m_Name: Garage 1
+      m_GuidLow: 16092529281079907413
+      m_GuidHigh: 3559507853878297769
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 0
+    m_Name: Room_SR_0001
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4720297911524727743
@@ -33,7 +33,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 12741998829872427937
       m_GuidHigh: 6579773516325575611
-    m_Size: {x: 0.1, y: 0.099295065}
-    m_SpecifySize: 1
-    m_Name: Trashbin
+    m_Size: {x: 0.1, y: 0.070625}
+    m_SpecifySize: 0
+    m_Name: Trashbin2
     m_Texture: {fileID: 0}
